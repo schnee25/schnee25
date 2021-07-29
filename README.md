@@ -24,4 +24,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/schnee25">
       <img height="20" src="https://img.shields.io/github/followers/schnee25?label=follow&logo=github&style=flat" />
     </a>
-  </p>
+ </p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+  
