@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋　　I'm こひまめ&#x2615;
+つよつよになりたいよわよわ
 
 <!--
 **schnee25/schnee25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
