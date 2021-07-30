@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=schnee25)](https://github.com/ryo-ma/github-profile-trophy) -->
 
   <img src="https://github.com/schnee25/schnee25/blob/main/images/stat.svg" alt="schnee25 WakaTime Activity"/>
-  <！-START_SECTION：waka->
-  <！-END_SECTION：waka->   
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+
 
