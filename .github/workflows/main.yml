@@ -7,6 +7,10 @@ on:
   schedule:
     # Runs at 4am JST
     - cron: '30 19 * * *'
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: '1 0 * * *' 
 
 jobs:
   github-metrics:
