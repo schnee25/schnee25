@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schnee25&count_private=true&theme=react)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schnee25&layout=compact&theme=react)](https://github.com/schnee25/github-readme-stats)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@schnee25)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=schnee25)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-  <img src="https://github.com/schnee25/schnee25/blob/main/images/stat.svg" alt="schnee25 WakaTime Activity"/>
  <!--START_SECTION:waka-->
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=schnee25)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github.com/schnee25/schnee25/blob/main/images/stat.svg" alt="schnee25 WakaTime Activity"/>
  <!--END_SECTION:waka-->
 
 
