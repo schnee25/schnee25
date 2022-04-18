@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={schnee25}&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> 
     <a href="https://github.com/schnee25/schnee25/">
       <img src="https://komarev.com/ghpvc/?username=schnee25" alt="schnee25" />
