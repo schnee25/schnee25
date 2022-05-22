@@ -36,7 +36,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/schnee25/schnee25/">
       <img src="https://komarev.com/ghpvc/?username=schnee25" alt="schnee25" />
     </a>
-   
     <a href="https://github.com/schnee25">
       <img height="20" src="https://img.shields.io/github/followers/schnee25?label=follow&logo=github&style=flat" />
     </a>
