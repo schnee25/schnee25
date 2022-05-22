@@ -1,6 +1,8 @@
 ### Hi there 👋　　I'm こひまめ&#x2615;
 つよつよになりたいよわよわ 
 
+👀 プログラミング/モデリング
+
 
 ## ポートフォリオサイト
 [yukipedia.io](https://yukipedia.io/)
