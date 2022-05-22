@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## よく使う言語等
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schnee25&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schnee25&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
