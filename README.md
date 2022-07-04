@@ -3,7 +3,7 @@
 
 👀 プログラミング/モデリング 
 #### ちょっとできる
-React,ReactNative / Blemder
+React,ReactNative / Blender
 #### 勉強中
 kotlin
 
