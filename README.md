@@ -1,11 +1,11 @@
 ### Hi there 👋　　I'm こひまめ&#x2615;
-つよつよになりたいよわよわ 
+っょっょになりたいょゎょゎ 
 
 👀 プログラミング/モデリング 
 #### ちょっとできる
 React,ReactNative / Blender
 #### 勉強中
-kotlin
+
 
 ## ポートフォリオサイト
 [yukipedia.io](https://yukipedia.io/)
