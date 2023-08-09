@@ -3,16 +3,10 @@
 
 👀 プログラミング/モデリング 
 #### ちょっとできる
-React,ReactNative / Blender
+React,Vue / Blender
 #### 勉強中
 
 
-## ポートフォリオサイト
-[yukipedia.io](https://yukipedia.io/)
-
-
-### Qiita
-[schnee25-Qiita](https://qiita.com/schnee25)
 
 
 <!--
